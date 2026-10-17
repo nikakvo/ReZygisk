@@ -1,5 +1,6 @@
 id=${moduleId}
 name=${moduleName}
+banner=banner.png
 version=${versionName}
 versionCode=${versionCode}
 author=The PerformanC Organization
