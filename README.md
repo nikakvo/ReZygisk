@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="module/ReZygisk.png" alt="Play Detach" width="640">
-</p>
+<p align="center"><img src="ReZygisk.png" alt="Tears GPS"></p>
 
 # ReZygisk
 
