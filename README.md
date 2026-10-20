@@ -1,4 +1,4 @@
-<p align="center"><img src="ReZygisk.png" alt="Tears GPS"></p>
+<p align="center"><img src="ReZygisk.png" alt="ReZygisk"></p>
 
 # ReZygisk
 
